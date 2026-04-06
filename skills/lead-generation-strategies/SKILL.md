@@ -282,6 +282,100 @@ Don't rely on email alone:
 
 ---
 
+## Competitor Analysis for Lead Generation
+
+Understanding what competitors do well — and where they fall short — reveals the fastest path to leads.
+
+### Competitor Research Process
+
+1. **Identify 5-10 competitors** (direct and indirect)
+   - Direct: same service, same market
+   - Indirect: overlapping services or adjacent markets
+   - Aspirational: bigger players whose tactics you can adapt locally
+
+2. **Audit their online presence**
+   - Website: messaging, offers, case studies, pricing transparency
+   - Social media: platforms used, posting frequency, engagement levels, content types
+   - SEO: what keywords they rank for, blog topics, content quality
+   - Reviews: Google, Clutch, industry directories — what clients praise and complain about
+   - Ads: check Meta Ad Library and Google Ads Transparency for active campaigns
+
+3. **Map their lead generation channels**
+
+| Channel | What to Look For |
+|---------|-----------------|
+| Website | Lead magnets, free audits, contact forms, chatbots, case studies |
+| Social media | Which platforms, content pillars, engagement tactics, DM funnels |
+| Email | Do they have a newsletter? Sign up and study their sequences |
+| Paid ads | Ad copy, landing pages, offers, targeting signals |
+| Partnerships | Co-marketing, referral programs, agency directories |
+| Events | Webinars, speaking engagements, sponsorships |
+| Content | Blog frequency, video content, podcast, guides |
+
+4. **Identify gaps and opportunities**
+   - Services they don't offer that you do
+   - Audiences they ignore or underserve
+   - Content they haven't created
+   - Channels they aren't using
+   - Complaints in their reviews you can solve
+
+### Competitive Positioning
+
+Position yourself on what competitors do poorly or ignore:
+
+- **If competitors are generic** → specialize (industry, service, outcome)
+- **If competitors are slow** → emphasize speed and responsiveness
+- **If competitors are expensive** → offer better value (not always lower price)
+- **If competitors ignore a platform** → own that channel
+- **If competitors don't show results** → lead with case studies and data
+- **If competitors don't serve your region** → emphasize local expertise and presence
+
+**See competitor-alternatives** for creating comparison and alternative pages.
+
+---
+
+## Promoting Production & Video Services
+
+Video production, event coverage, and creative services require a portfolio-first approach. Leads need to *see* what you can do.
+
+### Portfolio as Lead Generator
+
+- **Showcase reel**: 60-90 second highlight reel of your best work (update quarterly)
+- **Case study videos**: Before/after or behind-the-scenes of event coverage
+- **Platform-specific cuts**: Edit portfolio pieces for Instagram Reels, TikTok, YouTube Shorts
+- **Website portfolio page**: Organized by service type (events, brand videos, social content)
+
+### Content Strategy for Video Services
+
+| Content Type | Purpose | Platform |
+|-------------|---------|----------|
+| Behind-the-scenes of shoots | Show your process, build trust | Instagram Stories, TikTok |
+| Before/after edits | Demonstrate skill and transformation | Instagram Reels, LinkedIn |
+| Client testimonial clips | Social proof | Website, LinkedIn, YouTube |
+| Event highlight reels | Attract similar event clients | Instagram, YouTube, website |
+| Quick tips (lighting, framing) | Build authority, attract followers | TikTok, YouTube Shorts |
+| Gear and setup content | Attract creative community | YouTube, TikTok |
+
+### Lead Generation Tactics for Production Services
+
+1. **Offer a free event highlight clip** — Cover a local event for free or discounted rate, produce a 60-second highlight, and use it to attract paid clients
+2. **Partner with event venues and planners** — They need recommended videographers; become their go-to referral
+3. **Local business video audit** — Offer to review a business's video presence and suggest improvements (free consultation as lead magnet)
+4. **Social proof loop** — Film events, tag attendees and organizers, they share it, their network sees your work
+5. **Package deals** — Bundle social media management + monthly video content for recurring revenue
+6. **Spec work for dream clients** — Create a sample video concept for a target client to show what's possible
+
+### Pricing & Packaging for Video Services
+
+| Package | Includes | Best For |
+|---------|----------|----------|
+| Event coverage | 1 videographer, 4-8 hr coverage, highlight reel + raw footage | Corporate events, conferences |
+| Brand video | Concept, scripting, 1-day shoot, editing, 1 final video | Company stories, product launches |
+| Social content pack | 4-8 short videos/month, edited for social platforms | Ongoing social media content |
+| Full service bundle | Social media management + monthly video content | Clients wanting one provider |
+
+---
+
 ## Measuring Lead Generation Performance
 
 ### Core Metrics
